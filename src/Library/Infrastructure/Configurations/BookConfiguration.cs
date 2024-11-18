@@ -28,6 +28,7 @@ public class BookConfiguration : IEntityTypeConfiguration<Book>
             .IsRequired();
         
         builder.Property(b => b.Price)
+            .HasPrecision(18, 2)
             .IsRequired();
     }
 }

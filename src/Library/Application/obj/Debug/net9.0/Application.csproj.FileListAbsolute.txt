@@ -15,3 +15,4 @@ C:\Users\d0c\Documents\Projetos\library\src\Library\Application\bin\Debug\net9.0
 C:\Users\d0c\Documents\Projetos\library\src\Library\Application\bin\Debug\net9.0\Domain.pdb
 C:\Users\d0c\Documents\Projetos\library\src\Library\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
 C:\Users\d0c\Documents\Projetos\library\src\Library\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\Users\d0c\Documents\Projetos\library\src\Library\Application\obj\Debug\net9.0\Application.sourcelink.json
